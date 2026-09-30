@@ -27,4 +27,4 @@ Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 
 ## Arquivo do Projeto
 
-📄 
+📄 Dashboard_Clinica.pdf
