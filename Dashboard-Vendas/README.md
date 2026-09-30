@@ -2,6 +2,16 @@
 
 Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 
+## Tecnologias Utilizadas
+
+- Power BI
+- DAX
+- Power Query
+- Python
+- Excel
+
+## Páginas
+
 ## Dashboard Executivo
 
 ![Imagens](/01_Dashboard_Executivo.png)
@@ -13,3 +23,9 @@ Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 ## Análise de Produtos
 
 ![Imagens](/03_Analise_Produtos.png)
+
+
+## Arquivo do Projeto
+
+📄 Dashboard_Vendas.pdf
+
