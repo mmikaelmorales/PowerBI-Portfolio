@@ -20,9 +20,9 @@ Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 
 ![Dashboard Executivo](Imagens/02_Analise_Despesas.png)
 
-## Análise de Produtos
+## Análise de Resultado
 
-![Dashboard Executivo](Imagens/03_Analise_Produtos.png)
+![Dashboard Executivo](Imagens/03_Analise_Resultado.png)
 
 
 ## Arquivo do Projeto
