@@ -14,15 +14,15 @@ Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 
 ## Dashboard Financeiro
 
-![Dashboard Executivo](Imagens/01_Dashboard_Financeiro.png)
+![Dashboard Financeiro](Imagens/01_Dashboard_Financeiro.png)
 
 ## Análise de Despesas
 
-![Dashboard Executivo](Imagens/02_Analise_Despesas.png)
+![Dashboard Financeiro](Imagens/02_Analise_Despesas.png)
 
 ## Análise de Resultado
 
-![Dashboard Executivo](Imagens/03_Analise_Resultado.png)
+![Dashboard Financeiro](Imagens/03_Analise_Resultado.png)
 
 
 ## Arquivo do Projeto
