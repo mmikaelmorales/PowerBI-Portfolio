@@ -14,7 +14,7 @@ Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 
 ## Dashboard Executivo
 
-![Imagens](/01_Dashboard_Executivo.png)
+![Dashboard Executivo](Imagens/01_Dashboard)
 
 ## Análise de Vendedores
 
