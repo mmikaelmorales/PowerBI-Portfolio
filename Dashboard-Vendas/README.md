@@ -18,11 +18,11 @@ Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 
 ## Análise de Vendedores
 
-![Imagens](/02_Analise_Vendedores.png)
+![Dashboard Executivo](Imagens/02_Analise_Vendedores.png)
 
 ## Análise de Produtos
 
-![Imagens](/03_Analise_Produtos.png)
+![Dashboard Executivo](Imagens/03_Analise_Produtos.png)
 
 
 ## Arquivo do Projeto
