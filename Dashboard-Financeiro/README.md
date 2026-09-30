@@ -12,13 +12,13 @@ Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 
 ## Páginas
 
-## Dashboard Executivo
+## Dashboard Financeiro
 
 ![Dashboard Executivo](Imagens/01_Dashboard_Financeiro.png)
 
-## Análise de Vendedores
+## Análise de Despesas
 
-![Dashboard Executivo](Imagens/02_Analise_Vendedores.png)
+![Dashboard Executivo](Imagens/02_Analise_Despesas.png)
 
 ## Análise de Produtos
 
