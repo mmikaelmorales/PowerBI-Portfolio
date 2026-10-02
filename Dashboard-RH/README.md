@@ -18,11 +18,11 @@ Dashboard desenvolvido em Power BI com foco em indicadores de Recursos Humanos, 
   
 ## Turnover e Desligamentos
 
-  ![Dashboard_Executivo_RH](Imagens/02_Turnover_Desligamentos.png)
+  ![Turnover_Desligamentos](Imagens/02_Turnover_Desligamentos.png)
 
 ## Absenteísmo
 
-  ![Dashboard_Executivo_RH](Imagens/03_Absenteismo.png)****
+  ![Absenteísmo](Imagens/03_Absenteismo.png)****
 
 ## Arquivo do Projeto
 
