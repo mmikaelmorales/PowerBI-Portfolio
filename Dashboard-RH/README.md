@@ -26,4 +26,4 @@ Dashboard desenvolvido em Power BI com foco em indicadores de Recursos Humanos, 
 
 ## Arquivo do Projeto
 
-📄
+📄Dashboard_RH.pdf
