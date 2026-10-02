@@ -22,7 +22,7 @@ Dashboard desenvolvido em Power BI com foco em indicadores de Recursos Humanos, 
 
 ## Absenteísmo
 
-  ![Absenteísmo](Imagens/03_Absenteismo.png)****
+  ![Absenteísmo](Imagens/03_Absenteismo.png)
 
 ## Arquivo do Projeto
 
