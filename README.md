@@ -15,3 +15,7 @@ Análise de receitas, despesas, lucro e indicadores financeiros.
 ### 🏥 [Dashboard-Clinica](Dashboard-Clinica)
 
 Análise de performance médica, convênios e indicadores operacionais.
+
+## 👥 [Dashboard-RH](Dashboard-RH)
+
+Análise de indicadores de Recursos Humanos com foco em turnover, desligamentos, absenteísmo e gestão de pessoas.
