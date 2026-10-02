@@ -13,8 +13,8 @@ Dashboard desenvolvido em Power BI com foco em indicadores de Recursos Humanos, 
 ## 📊 Páginas do Dashboard
 
 - Dashboard Executivo RH
-![Dashboard_Executivo_RH](Imagens/01_Dashboard_Executivo_RH.png)
+  ![Dashboard_Executivo_RH](Imagens/01_Dashboard_Executivo_RH.png)
 - Turnover e Desligamentos
-![Dashboard_Executivo_RH](Imagens/02_Turnover_Desligamentos.png)
+  ![Dashboard_Executivo_RH](Imagens/02_Turnover_Desligamentos.png)
 - Absenteísmo
-![Dashboard_Executivo_RH](Imagens/03_Absenteismo.png)****
+  ![Dashboard_Executivo_RH](Imagens/03_Absenteismo.png)****
