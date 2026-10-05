@@ -19,3 +19,7 @@ Análise de performance médica, convênios e indicadores operacionais.
 ## 👥 [Dashboard-RH](Dashboard-RH)
 
 Análise de indicadores de Recursos Humanos com foco em turnover, desligamentos, absenteísmo e gestão de pessoas.
+
+## 🚚 Dashboard-Logistica
+ 
+Análise logística com geração de dados em Python, tratamento de qualidade no Power Query, modelagem dimensional e indicadores operacionais em Power BI.
