@@ -14,15 +14,15 @@ Dashboard desenvolvido em Power BI com foco em indicadores logísticos, qualidad
 
 ### Dashboard Executivo de Logística
 
-![Dashboard Financeiro](Imagens/01_dashboard_executo_logistica)
+![Dashboard Logistica](Imagens/01_dashboard_executo_logistica)
 
 ### Qualidade dos Dados
 
-![Dashboard Financeiro](Imagens/02_qualidade_dados)
+![Dashboard Logistica](Imagens/02_qualidade_dados)
 
 ### Análise Operacional
 
-![Dashboard Financeiro](Imagens/03_analise_dados)
+![Dashboard Logistica](Imagens/03_analise_dados)
 
 ## 📁 Arquivo do Projeto
 
