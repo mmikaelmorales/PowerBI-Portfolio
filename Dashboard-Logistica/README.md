@@ -1,59 +1,29 @@
-# 🚚 Dashboard Executivo de Logística
+# 🚚 Dashboard de Logística
 
-## Objetivo
+Dashboard desenvolvido em Power BI com foco em indicadores logísticos, qualidade dos dados e desempenho operacional.
 
-Projeto desenvolvido para simular uma operação logística corporativa utilizando Python, Power Query, DAX e Power BI.
+## 🚀 Tecnologias Utilizadas
 
-O objetivo foi reproduzir um cenário próximo ao encontrado em empresas reais, incluindo geração de dados, problemas de qualidade, tratamento, modelagem dimensional e construção de dashboards gerenciais.
-
-## Tecnologias Utilizadas
-
-- Python
-- Pandas
 - Power BI
-- Power Query
 - DAX
+- Power Query
+- Python
 - Excel
 
-## Geração dos Dados
+## 📊 Páginas do Dashboard
 
-A base foi criada em Python contendo:
+### Dashboard Executivo de Logística
 
-- 2.000 pedidos
-- 500 clientes
-- 18 produtos
-- Transportadoras
-- Datas de pedido e entrega
-- Valores de frete
-- Status de entrega
+(Imagem Página 1)
 
-## Problemas de Qualidade Simulados
+### Qualidade dos Dados
 
-- 40 Pedidos Duplicados
-- 80 Fretes Nulos
-- 60 Datas Ausentes
-- 100 Status Inconsistentes
-- 100 Transportadoras Inconsistentes
-- 50 CEPs Ausentes
-- 50 UFs Inconsistentes
+(Imagem Página 2)
 
-## Tratamentos Aplicados
+### Análise Operacional
 
-- Remoção de duplicidades
-- Padronização de status
-- Padronização de transportadoras
-- Correção de UFs inconsistentes
-- Tratamento de valores ausentes
-- Criação das dimensões analíticas
+(Imagem Página 3)
 
-## Estrutura do Dashboard
+## 📁 Arquivo do Projeto
 
-- Dashboard Executivo
-- Qualidade dos Dados
-- Análise Operacional
-
-## Considerações
-
-Este projeto demonstra um fluxo completo de Business Intelligence e Analytics:
-
-Python → Geração dos Dados → Problemas Simulados → Power Query → Tratamento → Modelagem Estrela → DAX → Power BI
+📄 Dashboard_Logistica.pdf
