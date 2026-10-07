@@ -77,7 +77,7 @@ Visão dedicada à governança, integridade e qualidade das informações utiliz
 - Distribuição dos Problemas
 - Problemas por Entidade
 
-imagens/pagina2-monitor-qualidade.png
+![Dashboard-Rede-Credenciada](imagens/02_Monitor_Qualidade_Dados.png)
 
 ---
 
@@ -97,7 +97,7 @@ Análise estrutural da rede credenciada e distribuição dos recursos assistenci
 - Vínculos Credenciados por Operadora
 - Vínculos Credenciados por Especialidade
 
-imagens/pagina3-monitor-rede.png
+![Dashboard-Rede-Credenciada](imagens/03_Monitor_Rede_Credenciada.png)
 
 ---
 
