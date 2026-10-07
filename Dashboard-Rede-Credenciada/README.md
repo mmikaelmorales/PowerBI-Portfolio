@@ -56,7 +56,7 @@ Visão consolidada dos indicadores operacionais, financeiros e assistenciais.
 - Especialidades com Mais Negativas
 - Prestadores com Mais Negativas
 
-imagens/pagina1-dashboard-executivo.png
+![Dashboard-Rede-Credenciada](imagens/01_Dashboard_Executivo_Rede_Credenciada.png)
 
 ---
 
