@@ -24,6 +24,6 @@ Análise de indicadores de Recursos Humanos com foco em turnover, desligamentos,
  
 Análise logística com geração de dados em Python, tratamento de qualidade no Power Query, modelagem dimensional e indicadores operacionais em Power BI.
 
-## 🏥 Dashboard-Rede-Credenciada
+## 🏥 [Dashboard-Rede-Credenciada](Dashboard-Rede-Credenciada)
 
 Análise operacional, financeira, qualidade dos dados e monitoramento da rede credenciada de uma operadora de saúde, utilizando Power BI, Python, DAX, Power Query e modelagem dimensional.
