@@ -27,3 +27,7 @@ Análise logística com geração de dados em Python, tratamento de qualidade no
 ## 🏥 [Dashboard-Rede-Credenciada](Dashboard-Rede-Credenciada)
 
 Análise operacional, financeira, qualidade dos dados e monitoramento da rede credenciada de uma operadora de saúde, utilizando Power BI, Python, DAX, Power Query e modelagem dimensional.
+
+## ☎️ Dashboard-Call-Center
+
+Análise operacional de Call Center com indicadores de volume de chamados, SLA, qualidade, FCR e desempenho dos atendentes.
