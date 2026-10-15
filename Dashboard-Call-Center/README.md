@@ -64,7 +64,7 @@
  - Chamados Reabertos
  - Transferências Indevidas 
 
- Imagens/02_Qualidade_Dados_Conformidade.png 
+ ![Dashboard-Call-Center](Imagens/02_Qualidade_Dados_Conformidade.png) 
 
  --- 
 
@@ -88,7 +88,7 @@
 - SLA da Primeira Resposta por Atendente
 - SLA da Resolução Final por Atendente 
 
- Imagens/03_Monitor_Desempenho_Atendentes.png 
+![Dashboard-Call-Center](Imagens/03_Monitor_Desempenho_Atendentes.png) 
 
  --- 
  
