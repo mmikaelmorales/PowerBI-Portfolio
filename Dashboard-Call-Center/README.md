@@ -40,7 +40,7 @@
  -  Volume de Chamados por Fila
  -  Distribuição dos Chamados por Complexidade
  
- Imagens/01_Dashboard_Call_Center.png 
+ ![Dashboard-Call-Center](Imagens/01_Dashboard_Call_Center.png) 
  
  --- 
 
