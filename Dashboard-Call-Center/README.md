@@ -7,7 +7,14 @@
 
  ## 🎯 Objetivo 
  Disponibilizar uma visão integrada da operação de Call Center, permitindo analisar: 
- - Volume de chamados - Chamados concluídos e pendentes - Taxa de conclusão - Cumprimento dos SLAs - Qualidade dos atendimentos - Resolução no primeiro contato (FCR) - Ocorrências e motivos de perda de qualidade - Desempenho dos atendentes 
+ - Volume de chamados
+ - Chamados concluídos e pendentes
+ - Taxa de conclusão
+ - Cumprimento dos SLAs
+ - Qualidade dos atendimentos
+ - Resolução no primeiro contato (FCR)
+ - Ocorrências e motivos de perda de qualidade
+ - Desempenho dos atendentes 
  --- 
 
  ## 📂 Documentação do Projeto 
