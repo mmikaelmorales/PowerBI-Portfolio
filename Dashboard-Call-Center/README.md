@@ -1,4 +1,4 @@
-☎️ Dashboard de Call Center
+## ☎️ **Dashboard de Call Center**
 
  Projeto desenvolvido em Power BI para monitoramento operacional, qualidade dos atendimentos e desempenho dos atendentes de uma operação de Call Center. 
  O projeto contempla o ciclo de desenvolvimento analítico, incluindo tratamento dos dados, modelagem dimensional, criação de indicadores em DAX e desenvolvimento de dashboards executivos e operacionais. 
