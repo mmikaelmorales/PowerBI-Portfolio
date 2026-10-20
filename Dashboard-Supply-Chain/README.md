@@ -19,21 +19,21 @@
  Visão executiva dos principais indicadores de estoque, abastecimento e compras. 
  ### Principais análises 
  - Valor Atual do Estoque - Total de SKUs - Itens em Ruptura - Itens Críticos - Itens com Excesso - Pedidos em Aberto - Cobertura Média do Estoque - Giro de Estoque em 12 Meses - Evolução Mensal do Valor em Estoque - Status Atual do Estoque - Valor do Estoque por Categoria - Ruptura e Estoque Crítico por Categoria 
- Imagens/01_Dashboard_Executivo.png 
+ ![Dashboard-Supply-Chain](Imagens/01_Dashboard_Executivo.png) 
  --- 
  ## 📦 Página 2 - Saúde do Estoque 
  Visão dedicada ao monitoramento da saúde dos estoques, identificação de produtos obsoletos, baixo giro, excesso e riscos de abastecimento. 
  
  ### Principais análises 
  - SKUs Obsoletos - Valor do Estoque Obsoleto - SKUs de Baixo Giro - Valor em Excesso - Itens em Ruptura - Itens Críticos - Aging Atual do Estoque - Saúde do Estoque por Categoria - Ruptura e Estoque Crítico por Depósito - Top 10 Produtos por Valor de Estoque Obsoleto - Valor do Estoque Obsoleto por Depósito 
- Imagens/02_Saude_Estoque.png 
+  ![Dashboard-Supply-Chain](Imagens/02_Saude_Estoque.png)  
  --- 
  ## 🚚 Página 3 - Fornecedores e Compras 
  Visão dedicada ao acompanhamento das compras, prazos de entrega e desempenho operacional dos fornecedores. 
  
  ### Principais análises 
  - Valor Total Comprado - Total de Pedidos - OTIF - Entregas no Prazo - Lead Time Médio - Pedidos em Atraso - OTIF por Fornecedor - Lead Time Contratado x Lead Time Real - Valor Comprado por Fornecedor - Participação do Valor Comprado por Ano - Top 10 Fornecedores com Mais Pedidos Atrasados 
- Imagens/03_Fornecedores_Compras.png 
+ ![Dashboard-Supply-Chain](Imagens/03_Fornecedores_Compras.png)   
  --- 
  ## 📊 Principais Conceitos Aplicados 
  - Modelagem Star Schema - Tabelas Fato e Dimensão - Múltiplas Tabelas Fato - Dimensões Compartilhadas - Relacionamentos Ativos e Inativos - Tabela Calendário - Medidas e KPIs em DAX - Tratamento de Dados com Power Query - Geração de Dados Simulados com Python - Aging do Estoque - Cobertura de Estoque - Giro de Estoque - Análise de Ruptura e Excesso - Lead Time - OTIF - Rankings Top N - Storytelling com Dados - Dashboards Executivos e Operacionais 
