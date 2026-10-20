@@ -1,6 +1,7 @@
 📦 Dashboard de Supply Chain e Gestão de Estoques
 
- Projeto desenvolvido em Power BI para monitoramento de estoque, movimentações, compras e desempenho de fornecedores em uma operação de Supply Chain. 
+ Disponibilizar uma visão integrada da operação de Supply Chain, permitindo analisar: 
+ - Projeto desenvolvido em Power BI para monitoramento de estoque, movimentações, compras e desempenho de fornecedores em uma operação de Supply Chain. 
  O projeto contempla todo o ciclo de desenvolvimento analítico, incluindo geração de dados simulados em Python, tratamento no Power Query, modelagem dimensional, criação de indicadores em DAX e desenvolvimento de dashboards executivos e operacionais. 
  --- 
  ## 🎯 Objetivo 
