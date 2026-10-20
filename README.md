@@ -31,3 +31,7 @@ Análise operacional, financeira, qualidade dos dados e monitoramento da rede cr
 ## ☎️ [Dashboard-Call-Center](Dashboard-Call-Center)
 
 Análise operacional de Call Center com indicadores de volume de chamados, SLA, qualidade, FCR e desempenho dos atendentes.
+
+## 📦 [Dashboard-Supply-Chain](Dashboard-Supply-Chain)
+
+ Análise de Supply Chain e Gestão de Estoques com foco em ruptura, excesso, obsolescência, cobertura, giro de estoque, compras, Lead Time, OTIF e desempenho de fornecedores, utilizando Power BI, Python, DAX, Power Query e modelagem dimensional.
