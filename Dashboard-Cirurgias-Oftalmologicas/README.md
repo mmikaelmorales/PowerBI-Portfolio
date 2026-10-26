@@ -37,7 +37,7 @@ Principais motivos de pendência
 Autorizações por convênio
 Taxa de autorização versus meta
 
-![Dashboard-Supply-Chain](Imagens/01_Dashboard_Executivo.png) Imagens/02_Autorizacoes_Pendencias.png
+![Dashboard-Cirurgias-Oftalmologicas](Imagens/02_Autorizacoes_Pendencias.png)  
 
  --- 
  ## 📅 Página 3 - Jornada Cirúrgica e Agendamentos
@@ -58,7 +58,7 @@ Reagendamentos por responsável
 Principais motivos de reagendamento
 Impacto dos reagendamentos no prazo
 
-Imagens/03_Jornada_Cirurgica.png
+![Dashboard-Cirurgias-Oftalmologicas](Imagens/03_Jornada_Cirurgica.png)  
 
  --- 
  ##⚕️ Página 4 - Performance Cirúrgica
@@ -79,7 +79,7 @@ Duração prevista versus realizada por procedimento
 Atraso médio por clínica
 Performance por médico
 
-Imagens/04_Performance_Cirurgica.png
+![Dashboard-Cirurgias-Oftalmologicas](Imagens/04_Performance_Cirurgica.png)  
 
  --- 
  ##💰 Página 5 - Financeiro Cirúrgico
@@ -101,7 +101,7 @@ Valor glosado por convênio
 Margem prevista versus realizada por procedimento
 Margem realizada por clínica
 
-Imagens/05_Financeiro_Cirurgico.png
+![Dashboard-Cirurgias-Oftalmologicas](Imagens/05_Financeiro_Cirurgico.png)  
 
  --- 
  ##🏦 Página 6 - Financeiro por Convênio
@@ -123,7 +123,7 @@ Valor glosado por convênio
 Faturamento versus taxa de recebimento
 Detalhamento financeiro por convênio
 
-Imagens/06_Financeiro_Convenio.png
+![Dashboard-Cirurgias-Oftalmologicas](Imagens/Imagens/06_Financeiro_Convenio.png  
 
  --- 
  ## 📌 Indicadores de Destaque
