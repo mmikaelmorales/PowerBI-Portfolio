@@ -1,4 +1,4 @@
-📈 Página 1 - Dashboard Executivo
+📈 **Página 1 - Dashboard Executivo**
 
 Visão consolidada dos principais indicadores da operação.
 
