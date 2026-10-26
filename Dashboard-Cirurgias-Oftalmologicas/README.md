@@ -123,7 +123,7 @@ Valor glosado por convênio
 Faturamento versus taxa de recebimento
 Detalhamento financeiro por convênio
 
-![Dashboard-Cirurgias-Oftalmologicas](Imagens/Imagens/06_Financeiro_Convenio.png  
+![Dashboard-Cirurgias-Oftalmologicas](Imagens/06_Financeiro_Convenio.png)  
 
  --- 
  ## 📌 Indicadores de Destaque
