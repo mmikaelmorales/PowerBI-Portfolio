@@ -18,7 +18,8 @@ Distribuição entre convênio e particular
 
 Imagens/01_Dashboard_Executivo.png
 
-📋 Página 2 - Autorizações e Pendências
+ --- 
+ ## 📋 Página 2 - Autorizações e Pendências
 
 Análise do processo de autorização das solicitações enviadas aos convênios.
 
@@ -38,7 +39,8 @@ Taxa de autorização versus meta
 
 Imagens/02_Autorizacoes_Pendencias.png
 
-📅 Página 3 - Jornada Cirúrgica e Agendamentos
+ --- 
+ ## 📅 Página 3 - Jornada Cirúrgica e Agendamentos
 
 Acompanhamento da jornada entre liberação, agendamento e realização da cirurgia.
 
@@ -58,7 +60,8 @@ Impacto dos reagendamentos no prazo
 
 Imagens/03_Jornada_Cirurgica.png
 
-⚕️ Página 4 - Performance Cirúrgica
+ --- 
+ ##⚕️ Página 4 - Performance Cirúrgica
 
 Visão operacional das cirurgias efetivamente realizadas.
 
@@ -78,7 +81,8 @@ Performance por médico
 
 Imagens/04_Performance_Cirurgica.png
 
-💰 Página 5 - Financeiro Cirúrgico
+ --- 
+ ##💰 Página 5 - Financeiro Cirúrgico
 
 Análise consolidada do desempenho financeiro das cirurgias realizadas.
 
@@ -99,7 +103,8 @@ Margem realizada por clínica
 
 Imagens/05_Financeiro_Cirurgico.png
 
-🏦 Página 6 - Financeiro por Convênio
+ --- 
+ ##🏦 Página 6 - Financeiro por Convênio
 
 Visão específica da performance financeira das operadoras de saúde.
 
@@ -120,7 +125,8 @@ Detalhamento financeiro por convênio
 
 Imagens/06_Financeiro_Convenio.png
 
-📌 Indicadores de Destaque
+ --- 
+ ## 📌 Indicadores de Destaque
 
 Alguns dos principais resultados apresentados no dashboard:
 
@@ -135,7 +141,9 @@ R$ 33,89 milhões faturados
 R$ 26,54 milhões recebidos
 R$ 6,81 milhões de saldo a receber
 78,31% de taxa de recebimento
-🧠 Principais Aprendizados
+
+ --- 
+ ##🧠 Principais Aprendizados
 
 O desenvolvimento deste projeto permitiu trabalhar conceitos importantes de Business Intelligence, incluindo:
 
@@ -156,7 +164,8 @@ O relatório completo exportado em PDF está disponível neste projeto:
 
 dashboard_cirurgias_oftalmologicas.pdf
 
-📁 Estrutura do Projeto
+ --- 
+ ## 📁 Estrutura do Projeto
 
 Dashboard-Cirurgias-Oftalmologicas/
 
