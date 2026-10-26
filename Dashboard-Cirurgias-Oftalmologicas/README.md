@@ -60,6 +60,7 @@ Impacto dos reagendamentos no prazo
 
 ![Dashboard-Cirurgias-Oftalmologicas](Imagens/03_Jornada_Cirurgica.png)  
 
+
  --- 
  ##⚕️ Página 4 - Performance Cirúrgica
 
