@@ -80,7 +80,7 @@ Duração prevista versus realizada por procedimento
 Atraso médio por clínica
 Performance por médico
 
-![Dashboard-Cirurgias-Oftalmologicas](Imagens/04_Performance_Cirurgica.png)  
+![Dashboard-Cirurgias-Oftalmologicas](Imagens/04_Performance_Cirurgica.png)
 
  --- 
  ##💰 Página 5 - Financeiro Cirúrgico
