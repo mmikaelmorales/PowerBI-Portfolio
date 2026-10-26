@@ -16,7 +16,7 @@ Cirurgias por procedimento
 Cirurgias por clínica
 Distribuição entre convênio e particular
 
-Imagens/01_Dashboard_Executivo.png
+![Dashboard-Cirurgias-Oftalmologicas](Imagens/01_Dashboard_Executivo.png) 
 
  --- 
  ## 📋 Página 2 - Autorizações e Pendências
@@ -37,7 +37,7 @@ Principais motivos de pendência
 Autorizações por convênio
 Taxa de autorização versus meta
 
-Imagens/02_Autorizacoes_Pendencias.png
+![Dashboard-Supply-Chain](Imagens/01_Dashboard_Executivo.png) Imagens/02_Autorizacoes_Pendencias.png
 
  --- 
  ## 📅 Página 3 - Jornada Cirúrgica e Agendamentos
