@@ -1,3 +1,9 @@
+# Dashboard de Cirurgias Oftalmológicas
+
+## Objetivo
+
+Acompanhar a jornada de solicitações, autorizações e agendamentos, a performance cirúrgica e o financeiro/glosas por convênio.
+
 📈 **Página 1 - Dashboard Executivo**
 
 Visão consolidada dos principais indicadores da operação.
@@ -80,7 +86,7 @@ Duração prevista versus realizada por procedimento
 Atraso médio por clínica
 Performance por médico
 
-![Dashboard-Cirurgias-Oftalmologicas](Imagens/04_Performance_Cirurgica.png)
+![Dashboard-Cirurgias-Oftalmologicas](Imagens/04_Peermornace_Cirurgica.png)
 
  --- 
  ##💰 Página 5 - Financeiro Cirúrgico
@@ -102,7 +108,7 @@ Valor glosado por convênio
 Margem prevista versus realizada por procedimento
 Margem realizada por clínica
 
-![Dashboard-Cirurgias-Oftalmologicas](Imagens/05_Financeiro_Cirurgico.png)  
+![Dashboard-Cirurgias-Oftalmologicas](Imagens/06_Financeiro_Cirurgico.png)  
 
  --- 
  ##🏦 Página 6 - Financeiro por Convênio
@@ -124,7 +130,7 @@ Valor glosado por convênio
 Faturamento versus taxa de recebimento
 Detalhamento financeiro por convênio
 
-![Dashboard-Cirurgias-Oftalmologicas](Imagens/06_Financeiro_Convenio.png)  
+![Dashboard-Cirurgias-Oftalmologicas](Imagens/05_Financeiro_Convencio.png)  
 
  --- 
  ## 📌 Indicadores de Destaque
@@ -163,7 +169,7 @@ Organização visual e storytelling com dados
 
 O relatório completo exportado em PDF está disponível neste projeto:
 
-dashboard_cirurgias_oftalmologicas.pdf
+[dashboard_cirurgias_oftalmologicas.pdf](dashboard_cirurgias_oftalmologicas.pdf)
 
  --- 
  ## 📁 Estrutura do Projeto
@@ -172,7 +178,7 @@ Dashboard-Cirurgias-Oftalmologicas/
 
 Imagens/
 README.md
-dashboard_cirurgias_oftalmologicas.pdf
+[dashboard_cirurgias_oftalmologicas.pdf](dashboard_cirurgias_oftalmologicas.pdf)
 👤 Autor
 
 Projeto desenvolvido para fins de estudo, prática profissional e composição de portfólio em Business Intelligence e Data Analytics.

@@ -10,7 +10,7 @@
  --- 
  ## 📂 Documentação do Projeto 
  📄 **Relatório Completo** 
- Dashboard_Supply_Chain.pdf 
+ [dashboard_supply_chain.pdf](dashboard_supply_chain.pdf) 
  --- 
  ## 🛠️ Tecnologias Utilizadas 
  - Power BI - Power Query - DAX - Python - Modelagem Dimensional - Modelagem Star Schema 
