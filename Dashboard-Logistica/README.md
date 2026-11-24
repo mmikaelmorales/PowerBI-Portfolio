@@ -26,4 +26,4 @@ Dashboard desenvolvido em Power BI com foco em indicadores logísticos, qualidad
 
 ## 📁 Arquivo do Projeto
 
-📄 Dashboard_Logistica.pdf
+📄 [Dashboard_Logistica_V1.pdf](Dashboard_Logistica_V1.pdf)

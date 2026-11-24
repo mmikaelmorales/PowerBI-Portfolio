@@ -1,4 +1,4 @@
-# Dashboard de Vendas
+# Dashboard Financeiro
 
 Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 
@@ -27,4 +27,4 @@ Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 
 ## Arquivo do Projeto
 
-📄Dashboard_Financeiro.pdf 
+📄 [Dashboard_Financeiro.pdf](Dashboard_Financeiro.pdf) 

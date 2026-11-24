@@ -21,7 +21,7 @@
  
  📄 **Relatório Completo** 
  
- Dashboard_Call_Center.pdf 
+ [Dashobard_Call_Center.pdf](Dashobard_Call_Center.pdf) 
 
  --- 
 

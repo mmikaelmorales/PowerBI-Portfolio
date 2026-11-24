@@ -1,4 +1,4 @@
-# Dashboard de Vendas
+# Dashboard de Clínica
 
 Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 
@@ -12,19 +12,19 @@ Projeto desenvolvido com Power BI, Python, Excel, DAX e Power Query.
 
 ## Páginas
 
-## Dashboard Financeiro
+## Dashboard Executivo
 
-![Dashboard Clinica](Imagens/01_Dashboard_Executivo_Clinica.png)
+![Dashboard Executivo](Imagens/01_Dashboard_Executivo_Clinica.png)
 
-## Análise de Despesas
+## Análise de Performance Médica
 
-![Dashboard Clinica](Imagens/02_Analise_Performance_Medica.png)
+![Análise de Performance Médica](Imagens/02_Analise_Performance_Medica.png)
 
-## Análise de Resultado
+## Análise de Convênios
 
-![Dashboard Clinica](Imagens/03_Analise_Convenios.png)
+![Análise de Convênios](Imagens/03_Analise_Convenios.png)
 
 
 ## Arquivo do Projeto
 
-📄 Dashboard_Clinica.pdf
+📄 [Dashboard_Clinica.pdf](Dashboard_Clinica.pdf)

@@ -23,7 +23,7 @@ Disponibilizar uma visão integrada da operação da rede credenciada, permitind
 
 📄 **Relatório Completo**
 
-Dashboard-Rede-Credenciada.pdf
+[Dashboard_Rede_Credenciada.pdf](Dashboard_Rede_Credenciada.pdf)
 
 ---
 
